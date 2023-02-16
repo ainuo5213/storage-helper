@@ -1,0 +1,26 @@
+{
+  "name": "@ainuo-utils/storage-helper",
+  "version": "1.0.1-beta.3",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainuo5213/storage-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ainuo5213/storage-helper/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.1.1"
+  }
+}
